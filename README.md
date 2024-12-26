@@ -1,1 +1,4 @@
 # Tugas_Keamanan_Data_HafizulFurqan
+1. Caesar Cipher: Caesar Cipher adalah salah satu teknik enkripsi atau penyandian yang paling sederhana dan paling terkenal. Ini adalah metode substitusi di mana setiap huruf dalam teks digantikan dengan huruf yang berada beberapa posisi setelahnya dalam alfabet.
+2. DES: DES adalah algoritma enkripsi simetris, yang berarti bahwa kunci yang sama digunakan untuk enkripsi dan dekripsi. Data yang akan dienkripsi dibagi menjadi blok-blok yang lebih kecil (64 bit), dan setiap blok diproses dengan menggunakan kunci enkripsi yang panjangnya 56 bit.
+3. Stegano: Steganografi (atau biasa disebut stegano) adalah teknik untuk menyembunyikan informasi atau pesan dalam media lain, sehingga pesan tersebut tidak dapat terlihat atau diketahui oleh orang yang tidak tahu cara mengambil informasi tersebut. 
